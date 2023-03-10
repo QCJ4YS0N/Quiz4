@@ -17,7 +17,7 @@ public class Pile {
         return true;
     }
 
-    public Object peek() throws PileException{
+    public Object peek() throws PileException {
         return "object";
     }
 
